@@ -5,7 +5,7 @@ using namespace std;
 int main(){
 	int x,y,h;
 	char yt;
-	awal:
+	
 	cout<<"program pengurangan tanpa angka negatif\n";
 	cout<<"masukkan x\t:";
 	cin>>x;
@@ -16,6 +16,9 @@ int main(){
 	h=y-x;
 	else
 	h=x-y;
+	cout<<"hasil\t\t:"<<h<<"\n";
+	
+	
 	
 	
 	
