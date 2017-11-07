@@ -25,5 +25,4 @@ int main(){
 	cout<<"gaji bersih \t\t\t:"<<gb<<"\n";
 	
 	
-	
 }
