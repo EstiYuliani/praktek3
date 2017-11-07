@@ -19,7 +19,8 @@ int main(){
 	cout<<"hasil\t\t:"<<h<<"\n";
 	
 	
-	
+	selesai:
+	cout<<"Terima Kasih";
 	
 	
 }
