@@ -12,5 +12,11 @@ int main(){
 	cout<<"masukan y\t:";
 	cin>>y;
 	
+	if(x<y)
+	h=y-x;
+	else
+	h=x-y;
+	
+	
 	
 }
