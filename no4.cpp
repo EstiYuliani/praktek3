@@ -13,6 +13,18 @@ int main(){
 	cout<<"input nilai\t:";
 	cin>>x;
 
+		if (x>0)
+	cout<<x<<" adalah bilangan positif\n";
+	
+	else if (x==0)
+	cout<<x<<" adalah bilangan nol\n";
+	
+	else if (x<0)
+	cout<<x<<" adalah bilangan negatif\n";
+	
+	else 
+	cout<<"angka yang anda masukan tidak dapat dibaca oleh sistem , silahkan cek lagi\n";
+	
 	
 
 }
