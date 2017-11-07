@@ -11,6 +11,9 @@ int main(){
 	j=jk-40;
 	jkr=j*1.5;
 	
+	cout<<"masukkan gaji per jam\t\t:";
+	cin>>gp;
+	
 	
 	
 }
